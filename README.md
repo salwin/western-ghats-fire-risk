@@ -17,6 +17,9 @@ using NASA MODIS satellite data from 2022 to 2024.
 - Peak fire season is February to April, with March being the highest
 - Kerala and Goa have the lowest fire occurrence
 - Tamil Nadu fires have the highest average intensity
+- ![Heatmap](outputs/fire_heatmap_western_ghats.png)
+  ![Monthly Trend](outputs/fire_monthly_trend.png)
+  ![State Heatmap](outputs/fire_state_month_heatmap.png)
 
 ## Tools Used
 - QGIS — spatial analysis and mapping
