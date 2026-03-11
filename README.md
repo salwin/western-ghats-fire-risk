@@ -29,5 +29,5 @@ using NASA MODIS satellite data from 2022 to 2024.
 - GADM Administrative Boundaries: gadm.org
 
 ## Author
-Salwin | GIS Analyst | TUM Munich Graduate
+Salwin | GIS Analyst | TUM Munich Graduate,
 Kerala, India
