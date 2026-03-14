@@ -1,5 +1,12 @@
 # Western Ghats Forest Fire Analysis (2022–2024)
-
+![QGIS](https://img.shields.io/badge/QGIS-3.28-green?logo=qgis)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostGIS-316192?logo=postgresql)
+![NASA](https://img.shields.io/badge/NASA-FIRMS%20MODIS-red?logo=nasa)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-Spatial%20Analysis-brightgreen)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Records](https://img.shields.io/badge/Fire%20Records-233K%2B-red)
 ## Overview
 This project maps and analyzes forest fire incidents in the Western Ghats, India, 
 using NASA MODIS satellite data from 2022 to 2024.
